@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "name": "js-course-fazt",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "security": "nodemon alfred.js"
+  }, 
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
